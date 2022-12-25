@@ -48,14 +48,14 @@ export default function Navbar() {
                             <line x1="6" y1="6" x2="18" y2="18" />
                         </svg>
                     </div>
-                    <ul className="MENU-LINK-MOBILE-OPEN flex flex-col items-center justify-between min-h-[250px]">
-                        <li className="border-b border-gray-400 my-8 uppercase">
+                    <ul className="MENU-LINK-MOBILE-OPEN flex flex-col items-center justify-between min-h-[250px] font-primary font-medium">
+                        <li className="border-gray-400 my-8 uppercase">
                             <a href="/#">Home</a>
                         </li>
-                        <li className="border-b border-gray-400 my-8 uppercase">
+                        <li className="border-gray-400 my-8 uppercase">
                             <a href="/#">About</a>
                         </li>
-                        <li className="border-b border-gray-400 my-8 uppercase">
+                        <li className="border-gray-400 my-8 uppercase">
                             <a href="/#">Contact</a>
                         </li>
                     </ul>
