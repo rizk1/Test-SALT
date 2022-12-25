@@ -13,7 +13,7 @@ export default function Footer() {
                 </div>
             </div>
             
-            <div className='mt-12 text-white font-normal leading-10 md:flex md:gap-4'>
+            <div className='mt-12 text-white font-normal leading-10 grid md:flex md:gap-4'>
                 <a href='#'>Who We Are</a>
                 <a href='#'>Our Values</a>
                 <a href='#'>The Perks</a>
